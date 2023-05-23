@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" width="200px"></h1>
 
-<div align="left">
+<div align="center">
 <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-css.svg"></code>
 <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-html-5.svg"></code>
 <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-js.svg"></code>
@@ -11,10 +11,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/image.gif"></img>
-  <img src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/image.gif"></img>
-  <img src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/image.gif"></img>
-  <img src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/image.gif"></img>
+  <p><img width="300px" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/image.gif"></img><p>
+  <a href="" alt=""><img  width="30" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/twitter.svg"></img></a>
+  <a href="" alt=""><img  width="30"  src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/linked-in-alt.svg"></img></a>
+  <a href="" alt=""><img  width="30" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/instagram.svg"></img></a>
 </div>
 
 
