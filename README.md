@@ -5,15 +5,15 @@
 <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-css.svg"></code>
 <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-html-5.svg"></code>
 <code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-js.svg"></code>
+<code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-github.svg"></code>
+<code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-visual-studio-code-2019.svg"></code>
+<code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-git.svg"></code>
 </div>
 
-<div align="left">
-<code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-css.svg"></code>
-<code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-html-5.svg"></code>
-<code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-js.svg"></code>
+<div align="center">
+  <img src=""></img>
 </div>
 
-<code><img height="60" src="https://github.com/Mehrshad-Test/Mehrshad-Test/blob/main/icons8-js.svg"></code>
 
 <!--
 **Mehrshad-Test/Mehrshad-Test** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
