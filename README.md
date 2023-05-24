@@ -35,6 +35,8 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko"></div>
 
 <br><br>
+<hr>
+<br>
 
 <div align=center>
   <a href="" title="">
@@ -63,8 +65,8 @@
 <br><br>
 
 <div align="">
-<a href="https://www.coffeebede.com/mehrshad"><img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg"/></a>
-<a href="https://www.coffeebede.com/mehrshad"><img width="20%" align="right" src="https://visitcount.itsvg.in/api?id=Mehrshad-Z&icon=2&color=12"/></a>
+  <a href="https://www.coffeebede.com/mehrshad"><img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg"/></a>
+  <a href="https://www.coffeebede.com/mehrshad"><img width="20%" align="right" src="https://visitcount.itsvg.in/api?id=Mehrshad-Z&icon=2&color=12"/></a>
 </div>
 
 
