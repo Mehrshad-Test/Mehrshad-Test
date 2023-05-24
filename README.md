@@ -63,6 +63,9 @@
 <a href="https://www.coffeebede.com/mehrshad"><img width="" align="right" src="https://visitcount.itsvg.in/api?id=Mehrshad-Z&icon=2&color=12"/></a>
 </div>
 
+| Github Stats | Top Languages |
+| --- | --- |
+| ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false) | ![Sy's top languages](https://github-profile-trophy.vercel.app/?username=Mehrshad-Z&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4) |
 
 
 
