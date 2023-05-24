@@ -28,18 +28,41 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko"></div>
 
 <br><br>
+<h1 >
+<p align=center>
+   <div align=center>
+    <a href="" title="">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" alt="" >
+    </a>
+    <a href="" title="">
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false" >
+    </a>
+  </div>
+  
+  <br><br><br><br><br><br><br><br>
+  
+  <div align=center>
+    <a href="">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" >
+    </a>
+  </div>
+  </p>
+  
 
-<div align="center" >
-  <img  src="https://github-readme-stats.vercel.app/api?username=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false">
-  <img  width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-</div>
 
 <br><br>
 
 <div align="center">
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=Mehrshad-Z&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4">
 </div>
+
+<br><br>
+
+<div align="">
+<a href="https://www.coffeebede.com/mehrshad"><img width="200" class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg"/></a>
+<a href="https://www.coffeebede.com/mehrshad"><img width="" align="right" src="https://visitcount.itsvg.in/api?id=Mehrshad-Z&icon=2&color=12"/></a>
+</div>
+
 
 
 
