@@ -32,10 +32,10 @@
 <p align=center>
    <div align=center>
     <a href="" title="">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" alt="" >
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=Mehrshad-Z&theme=vision-friendly-dark&hide_border=true&background=FFFFFF00&include_all_commits=false&count_private=false" >
     </a>
     <a href="" title="">
-      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false" >
+      <img align="right" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Mehrshad-Z&theme=vision-friendly-dark&hide_border=true&background=FFFFFF00" >
     </a>
   </div>
   
@@ -43,7 +43,7 @@
   
   <div align=center>
     <a href="">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" >
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mehrshad-Z&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&background=FFFFFF00" >
     </a>
   </div>
   </p>
